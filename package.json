@@ -1,6 +1,6 @@
 {
   "name": "swearing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some basic promise helper functions",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "keywords": [
     "promise"
   ],
-  "author": "Allan Taschini <allan.taschini@gmail.com>",
+  "author": "ᴉuᴉɥɔsɐʇ uɐllɐ <allan.taschini@gmail.com>",
   "license": "ISC",
   "homepage": "https://github.com/atask/swearing#readme",
   "devDependencies": {
